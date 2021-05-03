@@ -10,8 +10,7 @@ Ordered and unordered lists are heavily used in most websites.  It's not just fo
 
 <div class="lesson-content__panel" markdown="1">
 1. Read [Shay Howe on Lists (including CSS)](http://learn.shayhowe.com/html-css/ordered-unordered-definition-lists)
-2. Browse [HTMLGoodies' rapid fire guide to different list types](http://www.htmlgoodies.com/tutorials/getting_started/article.php/3479461)
-3. Glance over the [HTML docs on lists](http://www.w3schools.com/html/html_lists.asp)... you'll probably see them again when you're Googling for a problem!
+2. Glance over the [HTML docs on lists](http://www.w3schools.com/html/html_lists.asp)... you'll probably see them again when you're Googling for a problem!
 </div>
 
 ### Additional Resources
